@@ -1,0 +1,4 @@
+{
+  "compilerOptions": { "allowSyntheticDefaultImports": true },
+  "extends": "expo/tsconfig.base"
+}
